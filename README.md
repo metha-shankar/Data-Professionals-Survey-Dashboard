@@ -1,2 +1,4 @@
-# Data-Professionals-Survey-Dashboard
-This project involves creating an interactive survey dashboard using Power BI to analyze the responses from a survey conducted with data professionals. The dashboard provides key insights into the demographics, skills, work preferences, and career trends of professionals in the data industry.
+# Data Professionals Survey Dashboard
+![image](https://github.com/user-attachments/assets/bcdeb00b-c2a4-44e3-bf5b-90123b7f61cd)
+
+
